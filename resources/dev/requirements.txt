@@ -1,0 +1,11 @@
+pycryptodomex
+pycryptodome
+loguru
+boto3
+pyspark
+findspark
+mysql-connector-python
+Pandas >= 1.0.5
+PyArrow >= 4.0.0
+grpcio >= 1.48.1
+protobuf
